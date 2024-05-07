@@ -1,1 +1,1 @@
-ech Hello, Jenkins!
+echo Hello, Jenkins!
